@@ -1,7 +1,7 @@
 """
 Discord bot using Pycord for a quiz
 
-GitHub: <when i make it>
+GitHub: https://github.com/zax71/DiscordQuizBot
 Discord: ! Zax71 !#1557
 
 By Zax71
